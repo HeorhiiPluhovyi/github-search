@@ -1,7 +1,7 @@
 {
   "name": "study-app-7",
   "version": "0.1.0",
-  "homepage": "https://HeorhiiPluhovyi.github.io/",
+  "homepage": "https://HeorhiiPluhovyi.github.io/github-search",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.2",
