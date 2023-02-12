@@ -2,5 +2,4 @@
 
 ## Used technologies:
 
-[icons8-javascript-48.png]
 
