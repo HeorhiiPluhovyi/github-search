@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { Col, Container, Form, InputGroup, ListGroup, Row } from 'react-bootstrap';
 import Alert from 'react-bootstrap/esm/Alert';
 import RepoCard from '../Components/RepoCard';
