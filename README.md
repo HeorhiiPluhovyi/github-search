@@ -1,1 +1,1 @@
-# [DEMO](https://HeorhiiPluhovyi.github.io/github-search/)
+# [DEMO](https://HeorhiiPluhovyi.github.io)
